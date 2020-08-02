@@ -7,12 +7,12 @@
     "display" : "fullscreen",
     "icons" : [
         {
-           "src" : "",
+           "src" : "img64.png",
            "sizes" : "64x64",
            "type" : "image/png"
         },
         {
-            "src" : "",
+            "src" : "img512.png",
             "sizes" : "512x512",
             "type" : "image/png"
         }
