@@ -1,0 +1,20 @@
+{
+    "name" : "Hari's PWA",
+    "short_name" : "HPWA",
+    "start_url" : ".",
+    "background_color" : "Red",
+    "theme_cololr" : "#00957",
+    "display" : "fullscreen",
+    "icons" : [
+        {
+           "src" : "",
+           "sizes" : "64x64",
+           "type" : "image/png"
+        },
+        {
+            "src" : "",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+}
